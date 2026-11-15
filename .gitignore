@@ -1,0 +1,11 @@
+# Generated audit reports (keep the folder in Git, not machine-specific reports)
+reports/*.txt
+
+# Temporary and editor files
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+.vscode/
+.idea/
