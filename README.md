@@ -1,5 +1,7 @@
 # Linux System Auditor
 
+WTC-9C55WRC6
+
 A Bash-based Linux system auditing tool that collects system information, monitors resource usage, checks selected file permissions, and generates a timestamped text report.
 
 The project is designed as a beginner-friendly practical exercise after completing the **Red Hat Enterprise Linux Technical Overview (RH024)** course.
